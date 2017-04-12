@@ -1,0 +1,9 @@
+c:\users\lukea\documents\visual studio 2015\Projects\ProjetPresentationOral\ProjetPresentationOral\bin\Debug\ProjetPresentationOral.exe.config
+c:\users\lukea\documents\visual studio 2015\Projects\ProjetPresentationOral\ProjetPresentationOral\bin\Debug\ProjetPresentationOral.exe
+c:\users\lukea\documents\visual studio 2015\Projects\ProjetPresentationOral\ProjetPresentationOral\bin\Debug\ProjetPresentationOral.pdb
+c:\users\lukea\documents\visual studio 2015\Projects\ProjetPresentationOral\ProjetPresentationOral\obj\Debug\ProjetPresentationOral.csprojResolveAssemblyReference.cache
+c:\users\lukea\documents\visual studio 2015\Projects\ProjetPresentationOral\ProjetPresentationOral\obj\Debug\ProjetPresentationOral.Form1.resources
+c:\users\lukea\documents\visual studio 2015\Projects\ProjetPresentationOral\ProjetPresentationOral\obj\Debug\ProjetPresentationOral.Properties.Resources.resources
+c:\users\lukea\documents\visual studio 2015\Projects\ProjetPresentationOral\ProjetPresentationOral\obj\Debug\ProjetPresentationOral.csproj.GenerateResource.Cache
+c:\users\lukea\documents\visual studio 2015\Projects\ProjetPresentationOral\ProjetPresentationOral\obj\Debug\ProjetPresentationOral.exe
+c:\users\lukea\documents\visual studio 2015\Projects\ProjetPresentationOral\ProjetPresentationOral\obj\Debug\ProjetPresentationOral.pdb
