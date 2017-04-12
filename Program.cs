@@ -8,6 +8,7 @@ namespace ProjetPresentationOral
 {
     static class Program
     {
+        //allo luke.
         /// <summary>
         /// Point d'entrée principal de l'application.
         /// </summary>
