@@ -11,8 +11,9 @@ namespace ProjetPresentationOral
         public string request;
         public string reponse;
         public int typeQuestion;
+        public string[] tableauchoix = new string[5];
 
-        public Question (string request , string reponse,int typeQuestion)
+        public Question (string request , string reponse,int typeQuestion,string choix1 = "", string choix2 = "", string choix3 = "", string choix4 = "", string choix5 = "")
         {
             this.request = request;
             this.reponse = reponse;

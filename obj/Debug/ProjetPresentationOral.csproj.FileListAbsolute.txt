@@ -7,3 +7,12 @@ c:\users\lukea\documents\visual studio 2015\Projects\ProjetPresentationOral\Proj
 c:\users\lukea\documents\visual studio 2015\Projects\ProjetPresentationOral\ProjetPresentationOral\obj\Debug\ProjetPresentationOral.csproj.GenerateResource.Cache
 c:\users\lukea\documents\visual studio 2015\Projects\ProjetPresentationOral\ProjetPresentationOral\obj\Debug\ProjetPresentationOral.exe
 c:\users\lukea\documents\visual studio 2015\Projects\ProjetPresentationOral\ProjetPresentationOral\obj\Debug\ProjetPresentationOral.pdb
+C:\Users\Étudiant\Documents\GitHub\QuizCinemaMAGIC\obj\Debug\ProjetPresentationOral.csprojResolveAssemblyReference.cache
+C:\Users\Étudiant\Documents\GitHub\QuizCinemaMAGIC\obj\Debug\ProjetPresentationOral.Form1.resources
+C:\Users\Étudiant\Documents\GitHub\QuizCinemaMAGIC\obj\Debug\ProjetPresentationOral.Properties.Resources.resources
+C:\Users\Étudiant\Documents\GitHub\QuizCinemaMAGIC\obj\Debug\ProjetPresentationOral.csproj.GenerateResource.Cache
+C:\Users\Étudiant\Documents\GitHub\QuizCinemaMAGIC\obj\Debug\ProjetPresentationOral.exe
+C:\Users\Étudiant\Documents\GitHub\QuizCinemaMAGIC\obj\Debug\ProjetPresentationOral.pdb
+C:\Users\Étudiant\Documents\GitHub\QuizCinemaMAGIC\bin\Debug\ProjetPresentationOral.exe.config
+C:\Users\Étudiant\Documents\GitHub\QuizCinemaMAGIC\bin\Debug\ProjetPresentationOral.exe
+C:\Users\Étudiant\Documents\GitHub\QuizCinemaMAGIC\bin\Debug\ProjetPresentationOral.pdb
