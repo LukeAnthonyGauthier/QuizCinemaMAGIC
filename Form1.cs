@@ -19,15 +19,19 @@ namespace ProjetPresentationOral
 
         public Form1()
         {
-            tabBitmap = new Bitmap[5];
-            // todo Rajouter les image dans un dossier et le mettre en bitmap.
-            //tabBitmap[0] = new Bitmap();
-            //tabBitmap[1] = new Bitmap();
-            //tabBitmap[2] = new Bitmap();
-            //tabBitmap[3] = new Bitmap();
-            //tabBitmap[4] = new Bitmap();
+            tabBitmap = new Bitmap[7];
+			
 
-            questionaire = new Questionnaire();
+			//tabBitmap[0] = new Bitmap(@"media\E.t.jpg",true);
+			//tabBitmap[1] = new Bitmap();
+			//tabBitmap[2] = new Bitmap();
+			//tabBitmap[3] = new Bitmap();
+			//tabBitmap[4] = new Bitmap();
+			//tabBitmap[5] = new Bitmap();
+			//tabBitmap[6] = new Bitmap();
+
+
+			questionaire = new Questionnaire();
             InitializeComponent();
             afficher();
         }
@@ -118,6 +122,10 @@ namespace ProjetPresentationOral
         {
 
         }
-        
-    }
+
+		private void richTextBoxQuestionReponse_TextChanged(object sender, EventArgs e)
+		{
+
+		}
+	}
 }

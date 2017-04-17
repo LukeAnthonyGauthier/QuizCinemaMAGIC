@@ -16,3 +16,11 @@ C:\Users\Étudiant\Documents\GitHub\QuizCinemaMAGIC\obj\Debug\ProjetPresentation
 C:\Users\Étudiant\Documents\GitHub\QuizCinemaMAGIC\bin\Debug\ProjetPresentationOral.exe.config
 C:\Users\Étudiant\Documents\GitHub\QuizCinemaMAGIC\bin\Debug\ProjetPresentationOral.exe
 C:\Users\Étudiant\Documents\GitHub\QuizCinemaMAGIC\bin\Debug\ProjetPresentationOral.pdb
+C:\Users\lukea\Google Drive\Programmation 2\QuizCinemaMAGIC\QuizCinemaMAGIC\obj\Debug\ProjetPresentationOral.Form1.resources
+C:\Users\lukea\Google Drive\Programmation 2\QuizCinemaMAGIC\QuizCinemaMAGIC\obj\Debug\ProjetPresentationOral.Properties.Resources.resources
+C:\Users\lukea\Google Drive\Programmation 2\QuizCinemaMAGIC\QuizCinemaMAGIC\obj\Debug\ProjetPresentationOral.csproj.GenerateResource.Cache
+C:\Users\lukea\Google Drive\Programmation 2\QuizCinemaMAGIC\QuizCinemaMAGIC\obj\Debug\ProjetPresentationOral.exe
+C:\Users\lukea\Google Drive\Programmation 2\QuizCinemaMAGIC\QuizCinemaMAGIC\obj\Debug\ProjetPresentationOral.pdb
+C:\Users\lukea\Google Drive\Programmation 2\QuizCinemaMAGIC\QuizCinemaMAGIC\bin\Debug\ProjetPresentationOral.exe.config
+C:\Users\lukea\Google Drive\Programmation 2\QuizCinemaMAGIC\QuizCinemaMAGIC\bin\Debug\ProjetPresentationOral.exe
+C:\Users\lukea\Google Drive\Programmation 2\QuizCinemaMAGIC\QuizCinemaMAGIC\bin\Debug\ProjetPresentationOral.pdb

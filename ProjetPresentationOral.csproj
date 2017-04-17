@@ -81,6 +81,15 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="media\DentDeLaMers.jpg" />
+    <EmbeddedResource Include="media\E.t.jpg" />
+    <Content Include="media\ForrestGump.jpg" />
+    <Content Include="media\KingKong.jpg" />
+    <Content Include="media\Matrix.jpg" />
+    <Content Include="media\StarWars.jpg" />
+    <Content Include="media\StarWars2.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
