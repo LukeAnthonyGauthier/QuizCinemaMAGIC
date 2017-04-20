@@ -18,7 +18,12 @@ namespace ProjetPresentationOral
             this.request = request;
             this.reponse = reponse;
             this.typeQuestion = typeQuestion;
-        }
+			this.tableauchoix[0] = choix1;
+			this.tableauchoix[1] = choix2;
+			this.tableauchoix[2] = choix3;
+			this.tableauchoix[3] = choix4;
+			this.tableauchoix[4] = choix5;
+		}
        
 
         

@@ -24,3 +24,5 @@ C:\Users\lukea\Google Drive\Programmation 2\QuizCinemaMAGIC\QuizCinemaMAGIC\obj\
 C:\Users\lukea\Google Drive\Programmation 2\QuizCinemaMAGIC\QuizCinemaMAGIC\bin\Debug\ProjetPresentationOral.exe.config
 C:\Users\lukea\Google Drive\Programmation 2\QuizCinemaMAGIC\QuizCinemaMAGIC\bin\Debug\ProjetPresentationOral.exe
 C:\Users\lukea\Google Drive\Programmation 2\QuizCinemaMAGIC\QuizCinemaMAGIC\bin\Debug\ProjetPresentationOral.pdb
+C:\Users\lukea\Google Drive\Programmation 2\QuizCinemaMAGIC\QuizCinemaMAGIC\obj\Debug\ProjetPresentationOral.csprojResolveAssemblyReference.cache
+C:\Users\lukea\Google Drive\Programmation 2\QuizCinemaMAGIC\QuizCinemaMAGIC\obj\Debug\ProjetPresentationOral.g.resources

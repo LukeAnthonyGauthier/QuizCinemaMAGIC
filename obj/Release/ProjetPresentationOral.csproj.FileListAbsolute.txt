@@ -1,0 +1,4 @@
+C:\Users\lukea\Google Drive\Programmation 2\QuizCinemaMAGIC\QuizCinemaMAGIC\obj\Release\ProjetPresentationOral.csprojResolveAssemblyReference.cache
+C:\Users\lukea\Google Drive\Programmation 2\QuizCinemaMAGIC\QuizCinemaMAGIC\obj\Release\ProjetPresentationOral.Form1.resources
+C:\Users\lukea\Google Drive\Programmation 2\QuizCinemaMAGIC\QuizCinemaMAGIC\obj\Release\ProjetPresentationOral.Properties.Resources.resources
+C:\Users\lukea\Google Drive\Programmation 2\QuizCinemaMAGIC\QuizCinemaMAGIC\obj\Release\ProjetPresentationOral.csproj.GenerateResource.Cache

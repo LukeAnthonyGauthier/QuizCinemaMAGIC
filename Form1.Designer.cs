@@ -43,6 +43,9 @@
 			// 
 			// pictureBox1
 			// 
+			this.pictureBox1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+			this.pictureBox1.BackColor = System.Drawing.Color.Linen;
 			this.pictureBox1.Location = new System.Drawing.Point(850, 12);
 			this.pictureBox1.Name = "pictureBox1";
 			this.pictureBox1.Size = new System.Drawing.Size(574, 363);
@@ -61,7 +64,6 @@
 			this.buttonReponse4.Name = "buttonReponse4";
 			this.buttonReponse4.Size = new System.Drawing.Size(752, 60);
 			this.buttonReponse4.TabIndex = 4;
-			this.buttonReponse4.Text = "4";
 			this.buttonReponse4.UseVisualStyleBackColor = true;
 			this.buttonReponse4.Click += new System.EventHandler(this.buttonReponse_Click);
 			// 
@@ -76,7 +78,6 @@
 			this.buttonReponse1.Name = "buttonReponse1";
 			this.buttonReponse1.Size = new System.Drawing.Size(752, 54);
 			this.buttonReponse1.TabIndex = 5;
-			this.buttonReponse1.Text = "1";
 			this.buttonReponse1.UseVisualStyleBackColor = true;
 			this.buttonReponse1.Click += new System.EventHandler(this.buttonReponse_Click);
 			// 
@@ -91,7 +92,6 @@
 			this.buttonReponse2.Name = "buttonReponse2";
 			this.buttonReponse2.Size = new System.Drawing.Size(752, 60);
 			this.buttonReponse2.TabIndex = 6;
-			this.buttonReponse2.Text = "2";
 			this.buttonReponse2.UseVisualStyleBackColor = true;
 			this.buttonReponse2.Click += new System.EventHandler(this.buttonReponse_Click);
 			// 
@@ -106,7 +106,6 @@
 			this.buttonReponse3.Name = "buttonReponse3";
 			this.buttonReponse3.Size = new System.Drawing.Size(752, 57);
 			this.buttonReponse3.TabIndex = 7;
-			this.buttonReponse3.Text = "3";
 			this.buttonReponse3.UseVisualStyleBackColor = true;
 			this.buttonReponse3.Click += new System.EventHandler(this.buttonReponse_Click);
 			// 
@@ -121,7 +120,6 @@
 			this.buttonReponse5.Name = "buttonReponse5";
 			this.buttonReponse5.Size = new System.Drawing.Size(752, 53);
 			this.buttonReponse5.TabIndex = 8;
-			this.buttonReponse5.Text = "5";
 			this.buttonReponse5.UseVisualStyleBackColor = true;
 			this.buttonReponse5.Click += new System.EventHandler(this.buttonReponse_Click);
 			// 
